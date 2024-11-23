@@ -41,6 +41,9 @@ npm install
 # Start development server
 npm run dev
 ```
+## API Documentation
+
+For detailed API documentation including request/response formats, authentication, and examples, see [API_ENDPOINTS.md](API_ENDPOINTS.md).
 
 ## API Endpoints
 
